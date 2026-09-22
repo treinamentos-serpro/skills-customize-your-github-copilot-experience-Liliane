@@ -65,6 +65,25 @@
       "description": "Construção de APIs REST com o framework FastAPI",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-09-29"
+    },
+    {
+      "id": "testing-rest-apis-fastapi",
+      "title": "Testing REST APIs with FastAPI",
+      "description": "Escrita de testes automatizados para APIs REST com pytest e FastAPI",
+      "path": "assignments/testing-rest-apis-fastapi",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "FastAPI application",
+          "file": "app.py",
+          "type": "python"
+        },
+        {
+          "name": "Test starter code",
+          "file": "test_app.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
